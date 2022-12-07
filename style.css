@@ -159,10 +159,11 @@ section .set div:nth-child(2)
   text-align: center;
 }
 .crab{
-  margin-left: 600px;
 height: 400px;
   width: 600px;
   border-style: solid;
+  margin-left: 600px;
+
 
 }
 .sandy{
